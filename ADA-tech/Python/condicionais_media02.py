@@ -1,0 +1,7 @@
+media = 9
+presenca = 100
+
+if media >= 7 and presenca >= 70:
+    print("Aprovado.")
+else:
+    print("Reprovado.")
