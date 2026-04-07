@@ -1,4 +1,4 @@
-print('Descubra o número ->')
+
 
 numero_sorteado = 15 
 
