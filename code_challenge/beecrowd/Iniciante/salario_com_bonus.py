@@ -12,3 +12,11 @@ do vendedor e montante total das vendas efetuadas por este vendedor, respectivam
 Saída
 Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 """
+
+nome = str(input())
+salario_fixo = float(input())
+total_vendas = float(input())
+
+porcentagem_vendas = (total_vendas / 100) * 15 + salario_fixo
+
+print(f'TOTAL = R$ {porcentagem_vendas:.2f}')
