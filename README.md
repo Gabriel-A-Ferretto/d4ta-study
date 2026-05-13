@@ -22,3 +22,9 @@ Nada de perfeição, tudo de evolução. 🚀
 <div align="center">
   <sub>🔁 Atualizado sempre que um novo estudo entra no repositório.</sub>
 </div>
+<br>
+<div align="center">
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-A-Ferretto&layout=compact&theme=gruvbox)
+
+</div>
